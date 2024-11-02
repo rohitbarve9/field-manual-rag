@@ -2,7 +2,7 @@
 An AI-powered wilderness survival assistant with interactive guidance and reliable source citations.
 
 ## About
-Survival Support Bot is a wilderness survival assistant powered by generative AI that provides real-time, context-aware guidance. It uses a Retrieval-Augmented Generation (RAG) approach with LangChain, ChromaDB, and Cohere embeddings to retrieve relevant information from multiple survival manuals and provide accurate, contextual advice. The bot, which is accessible through an interactive Streamlit web app with source citations, provides critical survival tips in an easy-to-use format and is hosted on a community cloud to ensure broad accessibility.
+Survival Support Bot is a wilderness survival assistant powered by generative AI that provides real-time, context-aware guidance. It uses a Retrieval-Augmented Generation (RAG) approach with LangChain, ChromaDB, and Cohere embeddings to retrieve relevant information from multiple survival manuals and provide accurate, contextual advice. The bot, which is accessible through an interactive Streamlit web app with source citations, provides critical survival tips in an easy-to-use format and is hosted on the community cloud to ensure broad accessibility.
 
 ## Built With
 
