@@ -57,3 +57,26 @@ Survival Support Bot is a wilderness survival assistant powered by generative AI
 5. Run the `streamlit run main.py` to run the web application.
 
 
+## Demo 
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <div style="border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 20px; width: 450px; text-align: center;">
+    <img src="./images/demo1.png" width="550" height="300" alt="Demo Image 1">
+    <br>Demo 1
+  </div>
+
+  <div style="border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 20px; width: 450px; text-align: center;">
+    <img src="./images/demo2.png" width="550" height="300" alt="Demo Image 2">
+    <br>Demo 2
+  </div>
+
+  <div style="padding-bottom: 10px; width: 450px; text-align: center;">
+    <img src="./images/demo3.png" width="550" height="300" alt="Demo Image 3">
+    <br>Demo 3
+  </div>
+
+</div>
+
+
+
